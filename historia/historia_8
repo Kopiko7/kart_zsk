@@ -1,0 +1,8 @@
+  310  >plik.doc
+  311  ls
+  312  cat plik.doc
+  313  vim plik.doc
+  314  cat plik.doc
+  315  mkdir "historia"
+  316  cd historia
+  317  history | tail -8 > historia_8
